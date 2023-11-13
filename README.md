@@ -1,2 +1,2 @@
-# flag-laos-css
+# flag-laos
 Making flag of Laos using CSS
